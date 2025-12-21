@@ -1,24 +1,110 @@
-# 💫 About Me:
-I am an IT Engineering graduate with a strong foundation in Data Analytics, Machine Learning, and Big Data Technologies. Currently pursuing PG-DBDA at CDAC, I am actively building data-driven projects and strengthening my skills in PySpark, Hadoop, Hive, and real-world data processing.
+<h1 align="center">Hi 👋, I'm Muddasar Sayyad</h1>
+<h3 align="center">Big Data & Data Analytics Enthusiast | PG-DBDA @ CDAC</h3>
 
-I have hands-on experience with Python, SQL, Power BI, and end-to-end analytics workflows, including data preprocessing, feature engineering, model building, and visualization. I enjoy working on analytics and machine learning projects that transform raw data into meaningful business insights.
-
-I am continuously learning advanced Big Data optimization techniques, real-time data processing concepts, and cloud fundamentals (AWS) to align my skills with industry requirements. I am always open to collaborating on impactful data and analytics projects and growing as a data professional.
-
-✨ Fun fact: I can solve a Rubik’s Cube and debug Python code with the same patience<br>Building data-driven projects and strengthening my skills in Big Data Analytics, including PySpark, Hadoop, Hive, and real-world data processing use cases as part of my PG-DBDA at CDAC.<br>Data Analytics, Machine Learning, and Big Data projects involving Python, SQL, Power BI, PySpark, or end-to-end data pipelines<br>Advanced Big Data optimization techniques, real-time data processing, and best practices for industry-level analytics projects.<br>Big Data tools like Hadoop, Spark, Hive, along with cloud basics (AWS) and improving my data visualization and analytics skills.<br>Python, SQL, Machine Learning basics, Power BI dashboards, data preprocessing, feature engineering, and analytics project workflows.<br>I can solve a Rubik’s Cube and debug Python code with the same patience 🧩🐍
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muddasarsayyad55@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muddasarsayyad786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muddasarsayyad786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muddasarsayyad786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muddasarsayyad786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 IT Engineering graduate with honors in **Data Science**  
+📊 Currently pursuing **PG-DBDA (Big Data Analytics) at CDAC**  
+🚀 Passionate about **Data Analytics, Machine Learning & Big Data Technologies**
+
+I enjoy transforming raw data into meaningful insights using **Python, SQL, Power BI, and PySpark**, and I’m actively building real-world analytics and Big Data projects.
+
+✨ **Fun fact:** I can solve a Rubik’s Cube and debug Python code with the same patience 🧩🐍
+
+---
+
+## 🔭 I’m Currently Working On
+- Data-driven projects using **PySpark, Hadoop & Hive**
+- End-to-end **analytics pipelines**
+- Improving **Big Data processing & optimization** skills
+
+## 🌱 I’m Currently Learning
+- Advanced **Spark & Hadoop**
+- **AWS (Cloud Basics)**
+- Data visualization & performance tuning
+
+## 👯 I’m Looking to Collaborate On
+- Data Analytics & Machine Learning projects  
+- Big Data & real-world analytics use cases  
+
+## 💬 Ask Me About
+- Python, SQL, Machine Learning basics  
+- Power BI dashboards  
+- Data preprocessing & feature engineering  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,r,bash" />
+</p>
+
+### 🗄️ Databases & Big Data
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+</p>
+
+### 📊 Data Analytics & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔊 AI Voice Detection
+🔗 https://github.com/muddasarsayyad786/Audio-classifier  
+- AI-based voice classification model  
+- **96% accuracy**
+- Python | Machine Learning | Feature Engineering
+
+### 📈 Power BI Sales & Performance Dashboard
+- Real-time dashboard connected to **MySQL**
+- Power Query, DAX, KPIs & drill-throughs
+- Business insights for strategic decisions
+
+---
+
+## 🏆 Achievements
+- 🥈 Runner-up in **Poster Presentation (IoT Waste Management)**
+- 🤖 Represented college for **NAAC** with RoboCar project
+- ⭐ **4★ Python** on HackerRank  
+- ⭐ **3★ SQL** on HackerRank  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:muddasarsayyad55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muddasarsayyad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/muddasarsayyad786"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/muddasarsayyad55"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/max_sayyad"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muddasarsayyad786&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muddasarsayyad786&theme=radical&hide_border=true" />
+</p>
+
