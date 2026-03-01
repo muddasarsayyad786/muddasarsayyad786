@@ -1,210 +1,110 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Muddasar Sayyad | Big Data & Data Analytics</title>
+<h1 align="center">Hi 👋, I'm Muddasar Sayyad</h1>
+<h3 align="center">Big Data & Data Analytics Enthusiast | PG-DBDA @ CDAC</h3>
 
-<style>
-  :root {
-    --bg: #0d1117;
-    --card: #161b22;
-    --text: #c9d1d9;
-    --heading: #ffffff;
-    --accent: #58a6ff;
-    --border: #30363d;
-  }
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
-  * {
-    box-sizing: border-box;
-  }
+---
 
-  body {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-  }
+## 👨‍💻 About Me
 
-  a {
-    color: var(--accent);
-    text-decoration: none;
-  }
+🎓 IT Engineering graduate with honors in **Data Science**  
+📊 Currently pursuing **PG-DBDA (Big Data Analytics) at CDAC**  
+🚀 Passionate about **Data Analytics, Machine Learning & Big Data Technologies**
 
-  a:hover {
-    text-decoration: underline;
-  }
+I enjoy transforming raw data into meaningful insights using **Python, SQL, Power BI, and PySpark**, and I’m actively building real-world analytics and Big Data projects.
 
-  .container {
-    max-width: 1100px;
-    margin: auto;
-    padding: 40px 20px;
-  }
+✨ **Fun fact:** I can solve a Rubik’s Cube and debug Python code with the same patience 🧩🐍
 
-  .card {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 25px;
-    margin-bottom: 30px;
-  }
+---
 
-  h1, h2, h3 {
-    color: var(--heading);
-    margin-top: 0;
-  }
+## 🔭 I’m Currently Working On
+- Data-driven projects using **PySpark, Hadoop & Hive**
+- End-to-end **analytics pipelines**
+- Improving **Big Data processing & optimization** skills
 
-  h1 {
-    font-size: 2.2rem;
-  }
+## 🌱 I’m Currently Learning
+- Advanced **Spark & Hadoop**
+- **AWS (Cloud Basics)**
+- Data visualization & performance tuning
 
-  h2 {
-    font-size: 1.6rem;
-    margin-bottom: 15px;
-  }
+## 👯 I’m Looking to Collaborate On
+- Data Analytics & Machine Learning projects  
+- Big Data & real-world analytics use cases  
 
-  h3 {
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-  }
+## 💬 Ask Me About
+- Python, SQL, Machine Learning basics  
+- Power BI dashboards  
+- Data preprocessing & feature engineering  
 
-  .center {
-    text-align: center;
-  }
+---
 
-  img.profile-gif {
-    max-width: 100%;
-    border-radius: 10px;
-    margin-top: 20px;
-  }
+## 🛠️ Tech Stack
 
-  ul {
-    padding-left: 20px;
-  }
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,r,bash" />
+</p>
 
-  .badges img {
-    margin: 6px;
-    height: 40px;
-  }
+### 🗄️ Databases & Big Data
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+</p>
 
-  .project {
-    margin-bottom: 25px;
-  }
+### 📊 Data Analytics & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-  .connect img {
-    margin: 6px;
-  }
+---
 
-  @media (max-width: 768px) {
-    h1 {
-      font-size: 1.8rem;
-    }
-  }
-</style>
-</head>
+## 🚀 Featured Projects
 
-<body>
+### 🔊 AI Voice Detection
+🔗 https://github.com/muddasarsayyad786/Audio-classifier  
+- AI-based voice classification model  
+- **96% accuracy**
+- Python | Machine Learning | Feature Engineering
 
-<!-- HEADER -->
-<div class="container card center">
-  <h1>Hi 👋, I'm Muddasar Sayyad</h1>
-  <h3>Big Data & Data Analytics Engineer | PG-DBDA @ CDAC</h3>
-  <img class="profile-gif"
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding Animation" />
-</div>
+### 📈 Power BI Sales & Performance Dashboard
+- Real-time dashboard connected to **MySQL**
+- Power Query, DAX, KPIs & drill-throughs
+- Business insights for strategic decisions
 
-<div class="container">
+---
 
-<!-- ABOUT -->
-<div class="card">
-  <h2>👨‍💻 About Me</h2>
-  <p>🎓 IT Engineering graduate with honors in <b>Data Science</b></p>
-  <p>📊 Completed <b>PG-DBDA (Big Data Analytics) from CDAC</b></p>
-  <p>🚀 Working with <b>Python, SQL, PySpark, Hadoop, Hive, Power BI</b></p>
-  <p>✨ Fun fact: Rubik’s Cube patience = Debugging patience 🧩🐍</p>
-</div>
+## 🏆 Achievements
+- 🥈 Runner-up in **Poster Presentation (IoT Waste Management)**
+- 🤖 Represented college for **NAAC** with RoboCar project
+- ⭐ **4★ Python** on HackerRank  
+- ⭐ **3★ SQL** on HackerRank  
 
-<!-- RESUME -->
-<div class="card">
-  <h2>📄 Resume Snapshot</h2>
-  <ul>
-    <li><b>PG-DBDA</b> – CDAC (82%)</li>
-    <li><b>B.E. IT (Hons. Data Science)</b> – 70.40%</li>
-    <li>Strong Big Data & ML foundation</li>
-  </ul>
-  <a href="Muddasar_Sayyad_Resume.pdf" target="_blank">📎 Download Resume</a>
-</div>
+---
 
-<!-- TECH STACK -->
-<div class="card">
-  <h2>🛠️ Tech Stack</h2>
+## 📫 Connect With Me
 
-  <h3>Programming</h3>
-  <div class="badges">
-    <img src="https://skillicons.dev/icons?i=python,java,r,bash" />
-  </div>
+<p align="center">
+  <a href="mailto:muddasarsayyad55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muddasarsayyad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/muddasarsayyad786"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/muddasarsayyad55"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/max_sayyad"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
 
-  <h3>Big Data & Databases</h3>
-  <div class="badges">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-    <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
-  </div>
-</div>
+---
 
-<!-- PROJECTS -->
-<div class="card">
-  <h2>🚀 Featured Projects</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muddasarsayyad786&show_icons=true&theme=radical"/>
+</p>
 
-  <div class="project">
-    <h3>💳 Credit Card Analytics Platform</h3>
-    <p>
-      <a href="https://github.com/chandranshu23/Predicting-Financial-Infrastructure-Load-and-Spending-Patterns" target="_blank">
-        GitHub Repository
-      </a>
-    </p>
-    <p>Big Data ETL + Fraud, Churn & Forecasting models</p>
-  </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muddasarsayyad786&theme=radical&hide_border=true" />
+</p>
 
-  <div class="project">
-    <h3>📊 Tableau Northwind Dashboard</h3>
-    <p>
-      <a href="https://public.tableau.com/app/profile/muddasar.sayyad/viz/North_Winds/NorthWindTraderKPIDashBoard" target="_blank">
-        Live Dashboard
-      </a>
-    </p>
-    <p>Sales KPIs, drilldowns & insights</p>
-  </div>
-
-  <div class="project">
-    <h3>🔊 AI Voice Detection</h3>
-    <p>
-      <a href="https://github.com/muddasarsayyad786/Audio-classifier" target="_blank">
-        GitHub Repository
-      </a>
-    </p>
-    <p>Python + ML | 89% accuracy</p>
-  </div>
-</div>
-
-<!-- CONNECT -->
-<div class="card center connect">
-  <h2>📫 Connect With Me</h2>
-
-  <a href="mailto:muddasarsayyad55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muddasarsayyad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/muddasarsayyad786" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-</div>
-</body>
-</html>
