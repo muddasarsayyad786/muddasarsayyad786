@@ -44,7 +44,6 @@
 
 <body>
 
-  <!-- HEADER -->
   <section class="center">
     <h1>Hi 👋, I'm Muddasar Sayyad</h1>
     <h3>Big Data & Data Analytics Engineer | PG-DBDA @ CDAC</h3>
@@ -54,37 +53,35 @@
 
   <hr />
 
-  <!-- ABOUT -->
   <section>
     <h2>👨‍💻 About Me</h2>
 
     <p>
-      🎓 IT Engineering graduate with honors in <strong>Data Science</strong><br/>
-      📊 Completed <strong>PG-DBDA (Big Data Analytics) from CDAC</strong><br/>
-      🚀 Focused on <strong>Data Analytics, Big Data Processing & Machine Learning</strong>
+      🎓 IT Engineering graduate with honors in <strong>Data Science</strong> [cite: 21, 22]<br/>
+      📊 Completed <strong>PG-DBDA (Big Data Analytics) from CDAC - ACTS, Pune</strong> [cite: 17, 19]<br/>
+      🚀 Focused on <strong>Data Analytics, Big Data Processing & Machine Learning</strong> [cite: 6]
     </p>
 
     <p>
       I work with <strong>Python, SQL, Power BI, PySpark, Hadoop, and Hive</strong> to
-      convert raw data into scalable, business-ready insights.
+      convert raw data into scalable, business-ready insights[cite: 5, 13, 36].
     </p>
 
     <p>
-      ✨ <strong>Fun fact:</strong> I can solve a Rubik’s Cube and debug Python code with the same patience 🧩🐍
+      ✨ <strong>Fun fact:</strong> I can solve a Rubik’s Cube and debug Python code with the same patience 🧩🐍 [cite: 39]
     </p>
   </section>
 
   <hr />
 
-  <!-- RESUME SNAPSHOT -->
   <section>
     <h2>📄 Resume Snapshot</h2>
 
     <ul>
-      <li><strong>PG-DBDA (Big Data Analytics)</strong> – CDAC | <strong>82%</strong></li>
-      <li><strong>B.E. Information Technology (Hons. Data Science)</strong> – 70.40%</li>
-      <li>Strong foundation in Databases, Big Data & Machine Learning</li>
-      <li>Actively building scalable, data-driven solutions</li>
+      <li><strong>PG-DBDA (Big Data Analytics)</strong> – CDAC | <strong>82%</strong> [cite: 19]</li>
+      <li><strong>B.E. Information Technology (Hons. Data Science)</strong> – 70.40% [cite: 21, 22]</li>
+      <li>Strong foundation in Databases, Big Data & Machine Learning [cite: 5, 13]</li>
+      <li>Actively building scalable, data-driven solutions [cite: 6]</li>
     </ul>
 
     <p>
@@ -94,30 +91,18 @@
 
   <hr />
 
-  <!-- CURRENT WORK -->
-  <section>
-    <h2>🔭 I’m Currently Working On</h2>
-    <ul>
-      <li>Big Data projects using PySpark, Hadoop & Hive</li>
-      <li>End-to-end analytics pipelines</li>
-      <li>Performance optimization in distributed systems</li>
-    </ul>
-  </section>
-
-  <hr />
-
-  <!-- TECH STACK -->
   <section>
     <h2>🛠️ Tech Stack</h2>
 
     <h3>💻 Programming</h3>
     <div class="badges">
-      <img src="https://skillicons.dev/icons?i=python,java,r,bash" />
+      <img src="https://skillicons.dev/icons?i=python,bash" />
     </div>
 
     <h3>🗄️ Databases & Big Data</h3>
     <div class="badges">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
       <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
@@ -125,7 +110,7 @@
 
     <h3>📊 Analytics & Visualization</h3>
     <div class="badges">
-      <img src="https://skillicons.dev/icons?i=aws,linux" />
+      <img src="https://skillicons.dev/icons?i=linux" />
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -134,75 +119,46 @@
 
   <hr />
 
-  <!-- SKILLS -->
-  <section>
-    <h2>🧠 Skills (Resume-Aligned)</h2>
-    <ul>
-      <li><strong>Programming:</strong> Python</li>
-      <li><strong>Big Data:</strong> Hadoop, Hive, PySpark</li>
-      <li><strong>Databases:</strong> MySQL, Cassandra</li>
-      <li><strong>BI Tools:</strong> Power BI, Tableau, Excel</li>
-      <li><strong>ML:</strong> Supervised Learning, NLP Basics</li>
-      <li><strong>OS:</strong> Linux</li>
-      <li><strong>Soft Skills:</strong> Critical Thinking, Time Management, Ownership</li>
-    </ul>
-  </section>
-
-  <hr />
-
-  <!-- PROJECTS -->
   <section>
     <h2>🚀 Featured Projects</h2>
 
     <h3>💳 Big Data – Integrated Credit Card Analytics & Prediction Platform</h3>
-    <p>
-      🔗 <a href="https://github.com/chandranshu23/Predicting-Financial-Infrastructure-Load-and-Spending-Patterns" target="_blank">GitHub Repository</a>
-    </p>
-    <p><strong>Tech Stack:</strong> Hadoop, Hive, PySpark, Python, Machine Learning, Linux</p>
+    <p><strong>Tech Stack:</strong> Hadoop, Hive, Spark, Python, Machine Learning, Linux </p>
     <ul>
-      <li>Bronze-Silver-Gold ETL pipeline</li>
-      <li>Fraud detection, churn prediction, load forecasting</li>
-      <li>Optimized analytics on large-scale financial data</li>
+      <li>Constructed a robust banking data warehouse on a pseudo-distributed stack.</li>
+      <li>Orchestrated a multi-layer ETL pipeline (Bronze, Silver, Gold) for raw credit card data.</li>
+      <li>Enabled key predictive capabilities including Fraud Detection, Churn Prediction, and Spend Analysis.</li>
     </ul>
 
     <h3>📊 Tableau Sales & Operations Dashboard – Northwind Traders</h3>
-    <p>
-      🔗 <a href="https://public.tableau.com/app/profile/muddasar.sayyad/viz/North_Winds/NorthWindTraderKPIDashBoard" target="_blank">Live Dashboard</a>
-    </p>
-    <p><strong>Tech Stack:</strong> Tableau, SQL</p>
+    <p><strong>Tech Stack:</strong> Tableau, SQL </p>
     <ul>
-      <li>Interactive KPIs, filters & drill-downs</li>
-      <li>Sales and order performance analysis</li>
+      <li>Developed an interactive dashboard to analyze sales, orders, and product performance.</li>
+      <li>Designed clear dashboards with KPIs, filters, and drill-down actions for deep exploration.</li>
     </ul>
 
     <h3>🔊 AI Voice Detection</h3>
-    <p>
-      🔗 <a href="https://github.com/muddasarsayyad786/Audio-classifier" target="_blank">GitHub Repository</a>
-    </p>
-    <p><strong>Tech Stack:</strong> Python, Machine Learning, NLP</p>
+    <p><strong>Tech Stack:</strong> Python, Machine Learning, NLP </p>
     <ul>
-      <li>Voice classification system</li>
-      <li><strong>89% accuracy</strong></li>
-      <li>Audio feature engineering & model tuning</li>
+      <li>Developed an AI-based model to detect and classify voice patterns with an accuracy rate of **89%**.</li>
+      <li>Utilized supervised learning algorithms including decision trees.</li>
+      <li>Conducted feature engineering and audio preprocessing to ensure high-quality inputs.</li>
     </ul>
   </section>
 
   <hr />
 
-  <!-- ACHIEVEMENTS -->
   <section>
     <h2>🏆 Achievements</h2>
     <ul>
-      <li>⭐ 4★ Python on HackerRank</li>
-      <li>⭐ 4★ SQL on HackerRank</li>
-      <li>🥈 Runner-up – Poster Presentation (IoT Waste Management)</li>
-      <li>🤖 Represented college for NAAC (RoboCar Project)</li>
+      <li>⭐ 4 Star Python coder on HackerRank </li>
+      <li>⭐ 4 Star SQL coder on HackerRank </li>
+      <li>🤖 Founded department's Robocar team </li>
     </ul>
   </section>
 
   <hr />
 
-  <!-- CONNECT -->
   <section class="center">
     <h2>📫 Connect With Me</h2>
 
@@ -215,12 +171,6 @@
       </a>
       <a href="https://github.com/muddasarsayyad786" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://www.hackerrank.com/profile/muddasarsayyad55" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-      </a>
-      <a href="https://www.codechef.com/users/max_sayyad" target="_blank">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
       </a>
     </div>
   </section>
