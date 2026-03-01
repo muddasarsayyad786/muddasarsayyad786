@@ -9,40 +9,42 @@
 
 ## 👨‍💻 About Me
 
-🎓 IT Engineering graduate with honors in **Data Science**  
-📊 Currently pursuing **PG-DBDA (Big Data Analytics) at CDAC**  
-🚀 Passionate about **Data Analytics, Machine Learning & Big Data Technologies**
+🎓 IT Engineering graduate with **Honors in Data Science**  
+📊 **PG-DBDA (Big Data Analytics)** graduate from **CDAC**  
+🚀 Focused on **Big Data Analytics, Data Engineering & Applied Machine Learning**
 
-I enjoy transforming raw data into meaningful insights using **Python, SQL, Power BI, and PySpark**, and I’m actively building real-world analytics and Big Data projects.
+I work on transforming large-scale raw data into **structured, analytics-ready datasets** using  
+**Python, SQL, Hadoop, Spark, Hive, Power BI, and Tableau**.
 
-✨ **Fun fact:** I can solve a Rubik’s Cube and debug Python code with the same patience 🧩🐍
+✨ **Fun fact:** I enjoy debugging data pipelines as much as solving a Rubik’s Cube 🧩
 
 ---
 
-## 🔭 I’m Currently Working On
-- Data-driven projects using **PySpark, Hadoop & Hive**
-- End-to-end **analytics pipelines**
-- Improving **Big Data processing & optimization** skills
+## 🔭 Currently Working On
+- Big Data projects using **Hadoop, Hive & PySpark**
+- **ETL pipelines** (Bronze → Silver → Gold architecture)
+- Analytics-driven **business intelligence dashboards**
 
-## 🌱 I’m Currently Learning
-- Advanced **Spark & Hadoop**
-- **AWS (Cloud Basics)**
-- Data visualization & performance tuning
+## 🌱 Currently Learning
+- Advanced **Spark optimization & performance tuning**
+- **Cloud fundamentals (AWS basics)**
+- Scalable data processing patterns
 
-## 👯 I’m Looking to Collaborate On
-- Data Analytics & Machine Learning projects  
-- Big Data & real-world analytics use cases  
+## 👯 Open to Collaborate On
+- Data Analytics & Big Data projects  
+- Real-world **ETL, dashboarding, and ML use cases**
 
 ## 💬 Ask Me About
-- Python, SQL, Machine Learning basics  
-- Power BI dashboards  
+- Python & SQL for analytics  
+- PySpark & Hadoop fundamentals  
+- Power BI / Tableau dashboards  
 - Data preprocessing & feature engineering  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,r,bash" />
 </p>
@@ -55,9 +57,9 @@ I enjoy transforming raw data into meaningful insights using **Python, SQL, Powe
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
 </p>
 
-### 📊 Data Analytics & Visualization
+### 📊 Analytics & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux" />
+  <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -67,35 +69,64 @@ I enjoy transforming raw data into meaningful insights using **Python, SQL, Powe
 
 ## 🚀 Featured Projects
 
+### 💳 Integrated Credit Card Analytics & Prediction Platform
+🔗 https://github.com/chandranshu23/Predicting-Financial-Infrastructure-Load-and-Spending-Patterns  
+**Tech Stack:** Hadoop, Hive, Spark, Python, Machine Learning, Linux  
+
+- Designed a **pseudo-distributed data warehouse**
+- Built multi-layer **ETL pipeline (Bronze, Silver, Gold)**
+- Enabled predictive analytics:
+  - Fraud Detection  
+  - Churn Prediction  
+  - Load Forecasting  
+  - Spend Analysis  
+  - Merchant Recommendation  
+
+---
+
+### 📊 Tableau Sales & Operations Dashboard – Northwind Traders
+🔗 https://public.tableau.com/app/profile/muddasar.sayyad/viz/North_Winds/NorthWindTraderKPIDashBoard  
+**Tech Stack:** Tableau, SQL  
+
+- Built interactive dashboards for sales & operations analysis  
+- Implemented **KPIs, filters, and drill-downs**
+- Enabled data-driven decision making for business users  
+
+---
+
 ### 🔊 AI Voice Detection
 🔗 https://github.com/muddasarsayyad786/Audio-classifier  
-- AI-based voice classification model  
-- **96% accuracy**
-- Python | Machine Learning | Feature Engineering
+**Tech Stack:** Python, Machine Learning, NLP  
 
-### 📈 Power BI Sales & Performance Dashboard
-- Real-time dashboard connected to **MySQL**
-- Power Query, DAX, KPIs & drill-throughs
-- Business insights for strategic decisions
+- Developed voice classification model with **~89% accuracy**
+- Applied **feature engineering & preprocessing**
+- Evaluated and tuned supervised ML models  
 
 ---
 
 ## 🏆 Achievements
-- 🥈 Runner-up in **Poster Presentation (IoT Waste Management)**
-- 🤖 Represented college for **NAAC** with RoboCar project
-- ⭐ **4★ Python** on HackerRank  
-- ⭐ **3★ SQL** on HackerRank  
+- ⭐ **4★ Python** – HackerRank  
+- ⭐ **4★ SQL** – HackerRank  
+- 🥈 Runner-up – Poster Presentation (IoT Waste Management)
+- 🤖 NAAC Project Representative (RoboCar)
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:muddasarsayyad55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muddasarsayyad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/muddasarsayyad786"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/muddasarsayyad55"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/max_sayyad"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="mailto:muddasarsayyad55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muddasarsayyad">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/muddasarsayyad786">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/muddasarsayyad55">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -107,4 +138,3 @@ I enjoy transforming raw data into meaningful insights using **Python, SQL, Powe
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muddasarsayyad786&theme=radical&hide_border=true" />
 </p>
-
